@@ -1,3 +1,4 @@
+
 # All About Me!
 
 - 👋 Hey! This is R.Nithyasri,currently in my Sophomore year in Information Technology,persuing my degree from SSN College of Engineering,Chennai
@@ -12,12 +13,12 @@
 - SQL
 
 - # Skills:
-
+- 
 - Web Development using HTML, CSS and JS.
 - Android App Development using Flutter and Dart
 - Generative AI Technology
-- 
-- 📫 You can reach me at
+ 
+- # You can reach me at
 -           Email: nithyasri.ramesh2912@gmail.com
 -           Instagram ID: @moi_self_nithu
 -           LinkedIn Profile: www.linkedin.com/in/nithyasri-ramesh-378922256
