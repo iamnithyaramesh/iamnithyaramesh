@@ -13,7 +13,7 @@
 - SQL
 
 - # Skills:
-- 
+   
 - Web Development using HTML, CSS and JS.
 - Android App Development using Flutter and Dart
 - Generative AI Technology
