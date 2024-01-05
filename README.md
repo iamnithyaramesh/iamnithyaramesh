@@ -1,3 +1,4 @@
+![logo](https://github.com/iamnithyaramesh/iamnithyaramesh/blob/main/R%20Nithyasri.png)
 <h1 align="center">Hi 👋, I'm Nithya!</h1>
 <h3 align="center">An Zealous budding developer from Chennai!</h3>
 
