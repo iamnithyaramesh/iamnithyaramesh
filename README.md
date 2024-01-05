@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithya!</h1>
 <h3 align="center">An Zealous budding developer from Chennai!</h3>
 
+<img align='right' width='400' alt='gif' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&psig=AOvVaw2uRyGRdrLeFdjMwQ99vDJp&ust=1704546329210000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiymI6oxoMDFQAAAAAdAAAAABAQ'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnithyaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="iamnithyaramesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamnithyaramesh" alt="iamnithyaramesh" /></a> </p>
@@ -37,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnithyaramesh&show_icons=true&locale=en" alt="iamnithyaramesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnithyaramesh&" alt="iamnithyaramesh" /></p>
-
