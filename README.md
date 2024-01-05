@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithya!</h1>
 <h3 align="center">An Zealous budding developer from Chennai!</h3>
 
-<img align='right' width='400' alt='gif' src=![image](https://github.com/iamnithyaramesh/iamnithyaramesh/assets/149404358/89ac1cf9-c113-479a-8545-e455820d6e31)>
-
+<img align='right' alt='gif' width="400" src='https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnithyaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="iamnithyaramesh" /> </p>
 
