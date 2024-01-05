@@ -24,3 +24,5 @@
 -           Instagram ID: @moi_self_nithu
 -           LinkedIn Profile: www.linkedin.com/in/nithyasri-ramesh-378922256
 -           Discord: nithu2912
+
+  https://github-readme-stats.vercel.app/api/pin/?username=iamnithyaramesh&repo=github-readme)](https://github.com/oamnithyaramesh/github-readme
