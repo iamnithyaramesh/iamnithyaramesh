@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nithyasri.ramesh2912@gmail.com**
 
-- ⚡ Fun fact **Good at tackling bugs than mosquitoes..**
+- ⚡ Fun fact **Good at tackling bugs than mosquitoes..😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
