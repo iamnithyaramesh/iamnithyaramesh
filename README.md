@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nithya!</h1>
 <h3 align="center">An Zealous budding developer from Chennai!</h3>
 
-<img align='right' alt='gif' width="400" src='https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif'>
+<img align='center' width='350' src='https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnithyaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="iamnithyaramesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamnithyaramesh" alt="iamnithyaramesh" /></a> </p>
 
 - 🔭 I’m currently exploring on **Machine learning and Generative AI**
 
@@ -39,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnithyaramesh&show_icons=true&locale=en" alt="iamnithyaramesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnithyaramesh&" alt="iamnithyaramesh" /></p>
+
