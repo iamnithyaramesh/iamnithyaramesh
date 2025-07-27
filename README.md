@@ -29,6 +29,7 @@ Feel free to reach out if you want to discuss anything related to Python, SQL, H
 
 
 🤝 Connect with Me
+
 🔗 LinkedIn
 
 📸 Instagram
