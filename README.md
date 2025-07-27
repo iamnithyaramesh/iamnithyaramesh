@@ -1,6 +1,6 @@
-# Hello there! I'm Nithya – an enthusiastic budding developer from Chennai. Chronically high on some caffeine and coding ,lol.
+ Hello there! I'm Nithya – an enthusiastic budding developer from Chennai. Chronically high on some caffeine and coding ,lol.
 
-## I'm keen to collaborate on projects in Web Development, App Development, and Full Stack Engineering, and always open to internships and learning opportunities.
+ I'm keen to collaborate on projects in Web Development, App Development, and Full Stack Engineering, and always open to internships and learning opportunities.
 
 Feel free to reach out if you want to discuss anything related to Python, SQL, HTML/CSS, or Flutter!
 📧 Email: nithyasri.ramesh2912@gmail.com
