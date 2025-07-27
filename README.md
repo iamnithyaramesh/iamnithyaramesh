@@ -1,3 +1,5 @@
+![logo]([https://github.com/iamnithyaramesh/iamnithyaramesh/blob/main/R%20Nithyasri.png])
+
  Hello there! I'm Nithya – an enthusiastic budding developer from Chennai. Chronically high on some caffeine and coding ,lol.
 
  I'm keen to collaborate on projects in Web Development, App Development, and Full Stack Engineering, and always open to internships and learning opportunities.
